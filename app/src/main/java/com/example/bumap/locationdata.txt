@@ -825,3 +825,10 @@ val myRef = database.getReference("MocYangBuilding")
         myRef.child("floor").child("1").child("116").child("name").setValue("방재실")
         myRef.child("floor").child("1").child("116").child("location").child("lat").setValue("36.840474")
         myRef.child("floor").child("1").child("116").child("location").child("lng").setValue("127.184950")
+
+val myRef = database.getReference("FreeBuilding")
+
+        myRef.child("high").setValue("6")
+        myRef.child("low").setValue("-1")
+        myRef.child("location").child("lat").setValue("36.838497")
+        myRef.child("location").child("lng").setValue("127.18323")
