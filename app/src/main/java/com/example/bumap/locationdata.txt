@@ -1044,3 +1044,71 @@ val myRef = database.getReference("FreeBuilding")
         myRef.child("floor").child("3").child("toilet-2").child("name").setValue("화장실")
         myRef.child("floor").child("3").child("toilet-2").child("location").child("lat").setValue("36.8387308")
         myRef.child("floor").child("3").child("toilet-2").child("location").child("lng").setValue("127.1832948")
+
+        myRef.child("floor").child("4").child("401").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("401").child("location").child("lat").setValue("36.838734")
+        myRef.child("floor").child("4").child("401").child("location").child("lng").setValue("127.183495")
+
+        myRef.child("floor").child("4").child("402").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("402").child("location").child("lat").setValue("36.8386588")
+        myRef.child("floor").child("4").child("402").child("location").child("lng").setValue("127.1834398")
+
+        myRef.child("floor").child("4").child("403").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("403").child("location").child("lat").setValue("36.8385836")
+        myRef.child("floor").child("4").child("403").child("location").child("lng").setValue("127.1833846")
+
+        myRef.child("floor").child("4").child("404").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("404").child("location").child("lat").setValue("36.8385084")
+        myRef.child("floor").child("4").child("404").child("location").child("lng").setValue("127.1833294")
+
+        myRef.child("floor").child("4").child("405").child("name").setValue("여행사실습실")
+        myRef.child("floor").child("4").child("405").child("location").child("lat").setValue("36.8383204")
+        myRef.child("floor").child("4").child("405").child("location").child("lng").setValue("127.1831914")
+
+        myRef.child("floor").child("4").child("406").child("name").setValue("호텔F/D프로그램실습실")
+        myRef.child("floor").child("4").child("406").child("location").child("lat").setValue("36.8382828")
+        myRef.child("floor").child("4").child("406").child("location").child("lng").setValue("127.1831638")
+
+        myRef.child("floor").child("4").child("407").child("name").setValue("토론형강의실")
+        myRef.child("floor").child("4").child("407").child("location").child("lat").setValue("36.8382452")
+        myRef.child("floor").child("4").child("407").child("location").child("lng").setValue("127.1831362")
+
+        myRef.child("floor").child("4").child("408").child("name").setValue("광고제작실습실")
+        myRef.child("floor").child("4").child("408").child("location").child("lat").setValue("36.8382076")
+        myRef.child("floor").child("4").child("408").child("location").child("lng").setValue("127.1831086")
+
+        myRef.child("floor").child("4").child("toilet").child("name").setValue("화장실")
+        myRef.child("floor").child("4").child("toilet").child("location").child("lat").setValue("36.8383548")
+        myRef.child("floor").child("4").child("toilet").child("location").child("lng").setValue("127.1830188")
+
+        myRef.child("floor").child("4").child("409").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("409").child("location").child("lat").setValue("36.8383924")
+        myRef.child("floor").child("4").child("409").child("location").child("lng").setValue("127.1830464")
+
+        myRef.child("floor").child("4").child("410").child("name").setValue("토론형강의실")
+        myRef.child("floor").child("4").child("410").child("location").child("lat").setValue("36.83843")
+        myRef.child("floor").child("4").child("410").child("location").child("lng").setValue("127.183074")
+
+        myRef.child("floor").child("4").child("411").child("name").setValue("토론형강의실")
+        myRef.child("floor").child("4").child("411").child("location").child("lat").setValue("36.8384676")
+        myRef.child("floor").child("4").child("411").child("location").child("lng").setValue("127.1831016")
+
+        myRef.child("floor").child("4").child("412").child("name").setValue("여학생회복실")
+        myRef.child("floor").child("4").child("412").child("location").child("lat").setValue("36.8385804")
+        myRef.child("floor").child("4").child("412").child("location").child("lng").setValue("127.1831844")
+
+        myRef.child("floor").child("4").child("413").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("413").child("location").child("lat").setValue("36.838618")
+        myRef.child("floor").child("4").child("413").child("location").child("lng").setValue("127.183212")
+
+        myRef.child("floor").child("4").child("414").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("414").child("location").child("lat").setValue("36.8386556")
+        myRef.child("floor").child("4").child("414").child("location").child("lng").setValue("127.1832396")
+
+        myRef.child("floor").child("4").child("415").child("name").setValue("미디어강의실")
+        myRef.child("floor").child("4").child("415").child("location").child("lat").setValue("36.8386932")
+        myRef.child("floor").child("4").child("415").child("location").child("lng").setValue("127.1832672")
+
+        myRef.child("floor").child("4").child("toilet-2").child("name").setValue("화장실")
+        myRef.child("floor").child("4").child("toilet-2").child("location").child("lat").setValue("36.8387308")
+        myRef.child("floor").child("4").child("toilet-2").child("location").child("lng").setValue("127.1832948")
