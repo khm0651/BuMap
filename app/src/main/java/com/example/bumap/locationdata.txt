@@ -1180,3 +1180,55 @@ val myRef = database.getReference("FreeBuilding")
         myRef.child("floor").child("5").child("toilet-2").child("name").setValue("화장실")
         myRef.child("floor").child("5").child("toilet-2").child("location").child("lat").setValue("36.8387308")
         myRef.child("floor").child("5").child("toilet-2").child("location").child("lng").setValue("127.1832948")
+
+        myRef.child("floor").child("6").child("601").child("name").setValue("영상광고제작실")
+        myRef.child("floor").child("6").child("601").child("location").child("lat").setValue("36.8386588")
+        myRef.child("floor").child("6").child("601").child("location").child("lng").setValue("127.1834398")
+
+        myRef.child("floor").child("6").child("602").child("name").setValue("광고제작실습실")
+        myRef.child("floor").child("6").child("602").child("location").child("lat").setValue("36.8385836")
+        myRef.child("floor").child("6").child("602").child("location").child("lng").setValue("127.1833846")
+
+        myRef.child("floor").child("6").child("603").child("name").setValue("호텔레스토랑실습실")
+        myRef.child("floor").child("6").child("603").child("location").child("lat").setValue("36.8385084")
+        myRef.child("floor").child("6").child("603").child("location").child("lng").setValue("127.1833294")
+
+        myRef.child("floor").child("6").child("604").child("name").setValue("호텔연회실습실")
+        myRef.child("floor").child("6").child("604").child("location").child("lat").setValue("36.8383956")
+        myRef.child("floor").child("6").child("604").child("location").child("lng").setValue("127.1832466")
+
+        myRef.child("floor").child("6").child("605").child("name").setValue("전산실습실")
+        myRef.child("floor").child("6").child("605").child("location").child("lat").setValue("36.8383204")
+        myRef.child("floor").child("6").child("605").child("location").child("lng").setValue("127.1831914")
+
+        myRef.child("floor").child("6").child("606").child("name").setValue("전산실습실")
+        myRef.child("floor").child("6").child("606").child("location").child("lat").setValue("36.8382452")
+        myRef.child("floor").child("6").child("606").child("location").child("lng").setValue("127.1831362")
+
+        myRef.child("floor").child("6").child("toilet").child("name").setValue("화장실")
+        myRef.child("floor").child("6").child("toilet").child("location").child("lat").setValue("36.8383548")
+        myRef.child("floor").child("6").child("toilet").child("location").child("lng").setValue("127.1830188")
+
+        myRef.child("floor").child("6").child("607").child("name").setValue("전산실습실")
+        myRef.child("floor").child("6").child("607").child("location").child("lat").setValue("36.8383924")
+        myRef.child("floor").child("6").child("607").child("location").child("lng").setValue("127.1830464")
+
+        myRef.child("floor").child("6").child("608").child("name").setValue("전산세무회계실습실")
+        myRef.child("floor").child("6").child("608").child("location").child("lat").setValue("36.83843")
+        myRef.child("floor").child("6").child("608").child("location").child("lng").setValue("127.183074")
+
+        myRef.child("floor").child("6").child("609").child("name").setValue("여행서비스실습실")
+        myRef.child("floor").child("6").child("609").child("location").child("lat").setValue("36.8385804")
+        myRef.child("floor").child("6").child("609").child("location").child("lng").setValue("127.1831844")
+
+        myRef.child("floor").child("6").child("610").child("name").setValue("호텔실습실")
+        myRef.child("floor").child("6").child("610").child("location").child("lat").setValue("36.8386556")
+        myRef.child("floor").child("6").child("610").child("location").child("lng").setValue("127.1832396")
+
+        myRef.child("floor").child("6").child("611").child("name").setValue("항공실습실")
+        myRef.child("floor").child("6").child("611").child("location").child("lat").setValue("36.8386932")
+        myRef.child("floor").child("6").child("611").child("location").child("lng").setValue("127.1832672")
+
+        myRef.child("floor").child("6").child("toilet-2").child("name").setValue("화장실")
+        myRef.child("floor").child("6").child("toilet-2").child("location").child("lat").setValue("36.8387308")
+        myRef.child("floor").child("6").child("toilet-2").child("location").child("lng").setValue("127.1832948")
